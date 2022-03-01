@@ -4,7 +4,7 @@ import subprocess
 
 bot = lightbulb.BotApp(
     token="token",
-    default_enabled_guilds=(856435723241652225)
+    default_enabled_guilds=(this)
     )
 
 @bot.command
