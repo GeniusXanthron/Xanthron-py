@@ -3,7 +3,7 @@ import os
 import subprocess
 
 bot = lightbulb.BotApp(
-    token="OTQ1NDg3MTUyMTE0OTgyOTUy.YhQ3hw.0YDX9zIZnmXqphqHrqWxTeowgfA",
+    token="token",
     default_enabled_guilds=(856435723241652225)
     )
 
